@@ -1,0 +1,22 @@
+data consists of 100 gene trees and 1001 4-taxon subsets
+
+ same taxa in gene trees and quartets: ["BarbMacaq", "Bovine", "Chimp", "Crab-E.Ma", "Gibbon", "Gorilla", "Human", "Jpn_Macaq", "Lemur", "Mouse", "Orang", "Rhesus_Ma", "Squir_Mon", "Tarsier"]
+Taxon BarbMacaq appears in 100 input trees (100.0 %)
+Taxon Bovine appears in 100 input trees (100.0 %)
+Taxon Chimp appears in 100 input trees (100.0 %)
+Taxon Crab-E.Ma appears in 100 input trees (100.0 %)
+Taxon Gibbon appears in 100 input trees (100.0 %)
+Taxon Gorilla appears in 100 input trees (100.0 %)
+Taxon Human appears in 100 input trees (100.0 %)
+Taxon Jpn_Macaq appears in 100 input trees (100.0 %)
+Taxon Lemur appears in 100 input trees (100.0 %)
+Taxon Mouse appears in 100 input trees (100.0 %)
+Taxon Orang appears in 100 input trees (100.0 %)
+Taxon Rhesus_Ma appears in 100 input trees (100.0 %)
+Taxon Squir_Mon appears in 100 input trees (100.0 %)
+Taxon Tarsier appears in 100 input trees (100.0 %)
+----------------------------
+
+will print below only the 4-taxon subsets with data from <= 70.0% genes
+----------------------------
+
