@@ -1,0 +1,12 @@
+optimization of topology, BL and inheritance probabilities using:
+ hmax = 1,
+ tolerance parameters: ftolRel=0.1, ftolAbs=0.1,
+                       xtolAbs=0.001, xtolRel=0.01.
+ max number of failed proposals = 5, liktolAbs = 0.1.
+rootname for files: phylonetwork
+BEGIN: 1 runs on starting tree (Chlor_ell,Volvox_ro,(Pyrami_pa,((((((((((((((Cornuscan,Dipsacus):0.001057754006,(Nicotiana,Gentiana):0.007694148582):0.0008836779602,((((NothofBal,Celtis):0.01227853215,Floerkea):0.001479463272,Heuchera):0.001338119376,(Gunnera,Platanus):0.004940419437):0.001815618082):0.005802534124,Amaranthu):0.005722063317,((((Hedycarya,Austrobai):0.002078372485,Tasmannia):0.003978552828,Saururus):0.0038327573,Victoria):0.00265563721):0.004844574369,(Iris,Aloe):0.01206529425):0.004510070514,(Avena,Carex):0.008588840247):0.01462105529,(((Larix,Picea_pun):0.02666389511,Ginkgobil):0.003556327491,Podocarpus):0.01591583206):0.0144718025,(((Osmunda_ci,Angiopter):0.004965183639,(((Cheiropleu,Loxoma):0.006239736041,Marsilea):0.003024214283,(((Nephrolepi,Xiphopteri):0.004331557585,Asplenium):0.007097579537,Monachosor):0.01086467461):0.01436986202):0.008617204239,Lycopodium):0.001730031705):0.002882767581,Sphagnum_J):0.003416244045,((((((Fissidens_,Ptychomitr):0.003206744894,((Hedwigia_7,Leucodon_5):0.00727532923,Hookeria_2):0.006115933949):0.01236830527,Tetraphis_):0.007115875507,((Conocephal,Dumortiera):0.000436818563,Marchantia):0.03191095098):0.004225106822,((Metzgeria_,Porella_4):0.002274361514,Bazzania_J):0.008076310605):0.005575247655,Anthoceros):0.005964582144):0.01200335034,(Sirogonium,Zygnema_pe):0.0134953774):0.002058275565,Chara_conn):0.01881954351,Anabaena_s):0.01023376912):0.01259076928);
+
+main seed 27208
+seed: 27208 for run 1, 2024-10-08 0:2:9.242
+
+BEGIN SNaQ for run 1, seed 27208 and hmax 1

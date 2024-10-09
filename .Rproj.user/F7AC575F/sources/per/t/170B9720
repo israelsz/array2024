@@ -1,0 +1,28 @@
+{
+    "id": "170B9720",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1728263028446.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "id": "09953b94ff6e4b47888198310ba8ed53",
+        "name": "multiarboles",
+        "title": "multiarboles",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 15762822037569604,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728263028446,
+    "read_only": false,
+    "read_only_alternatives": []
+}

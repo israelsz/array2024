@@ -1,0 +1,28 @@
+{
+    "id": "B8CEDEFE",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1728246954791.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "id": "1d11d215e73f4d5cb2bf07e7029dad83",
+        "name": "arboles",
+        "title": "arboles",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1728181152,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1728246954791,
+    "read_only": false,
+    "read_only_alternatives": []
+}
